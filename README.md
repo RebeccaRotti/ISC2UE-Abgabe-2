@@ -1,5 +1,4 @@
-# Übung 7 JavaScript Teil 2: Objekte im Browser
-HYP1UE_T1 Hypermedia 1 Webprogrammierung | 05./06.12.2022 | Wolfgang Hochleitner | Code-along
+# Übung 2 JavaScript Teil 2: Objekte im Browser
 
 Zum Kennenlernen des Objektbegriffs und der Ausgabe im Browser in JavaScript soll mit dem Datumsobjekt gearbeitet werden. Es sollen das aktuelle Datum und die Uhrzeit ausgegeben werden. Auf Klick soll angezeigt werden, wie lange die aktuelle Seite bereits geöffnet ist und eine Möglichkeit bestehen, die Seite neu zu laden.
 
