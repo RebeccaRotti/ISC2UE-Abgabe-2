@@ -6,9 +6,9 @@ Zum Kennenlernen des Objektbegriffs und der Ausgabe im Browser in JavaScript sol
 
 Gegeben ist eine einfache HTML-Datei `index.html` mit dem Standard-HTML-Grundgerüst. Diese soll zu Beginn mit den nötigsten Inhalten erweitert werden. In diese Elemente werden im Anschluss per JavaScript die Inhalte eingefügt. Überlegen Sie sich ein ansprechendes (nicht zu aufwendiges) Layout. Die Abbildung zeigt das Dokument noch ohne JavaScript-Inhalte, beim Klicken der Links passiert außerdem nichts.
 
-| <img src="stage1.png" alt="Ohne JavaScript steht zwar die Dokumentenstruktur, jedoch fehlen die Inhalte zu Uhrzeit und Datum. Beim Klicken der Links passiert außerdem nichts." width="800"> |
+| <img src="stage1.png" alt="Beispiel wie es aussehen kann" width="800"> |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                   **Ohne JavaScript steht zwar die Dokumentenstruktur, jedoch fehlen die Inhalte zu Uhrzeit und Datum. Beim Klicken der Links passiert außerdem nichts.**                    |
+|                   **Beispiel wie es aussehen kann**                    |
 
 ## Die JavaScript-Datei
 
