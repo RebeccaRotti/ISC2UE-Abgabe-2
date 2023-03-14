@@ -4,7 +4,7 @@ Zum Kennenlernen des Objektbegriffs und der Ausgabe im Browser in JavaScript sol
 
 ## Die HTML-Datei
 
-Gegeben ist eine einfache HTML-Datei `index.html` mit dem Standard-HTML-Grundgerüst. Diese soll zu Beginn mit den nötigsten Inhalten erweitert werden. Es genügt eine Struktur mit leeren Elementen wie `<div>`, `<section>` etc. bzw. Links in deren `href`-Attribut die JavaScript-Funktionen aufgerufen werden. In diese Elemente werden im Anschluss per JavaScript die Inhalte eingefügt. Die HTML-Seite muss dabei keinem bestimmten Layout unterliegen und auch nicht per CSS gestaltet sein (kann aber natürlich). Die Abbildung zeigt das Dokument noch ohne JavaScript-Inhalte, beim Klicken der Links passiert außerdem nichts.
+Gegeben ist eine einfache HTML-Datei `index.html` mit dem Standard-HTML-Grundgerüst. Diese soll zu Beginn mit den nötigsten Inhalten erweitert werden. In diese Elemente werden im Anschluss per JavaScript die Inhalte eingefügt. Überlegen Sie sich ein ansprechendes (nicht zu aufwendiges) Layout. Die Abbildung zeigt das Dokument noch ohne JavaScript-Inhalte, beim Klicken der Links passiert außerdem nichts.
 
 | <img src="stage1.png" alt="Ohne JavaScript steht zwar die Dokumentenstruktur, jedoch fehlen die Inhalte zu Uhrzeit und Datum. Beim Klicken der Links passiert außerdem nichts." width="800"> |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
