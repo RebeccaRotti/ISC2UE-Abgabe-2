@@ -43,5 +43,3 @@ Legen Sie nun eine externe JavaScript-Datei (Textdatei, beliebiger Name, Endung 
 ## Tipps und Richtlinien
 
 - Die Chrome DevTools und ähnliche Werkzeuge anderer Browser zeigen generierten JavaScript-Code an.
-- Falls Sie schon mit JavaScript Erfahrungen haben und etwa mit dem DOM vertraut sind, können Sie die Ausgaben auch damit erledigen. Das DOM ist ansonsten Inhalt von Vorlesung 10 und Übung 8.
-- Bei Fragen oder Problemen zur Aufgabe verwenden Sie den Pull Request "Feedback" oder eröffnen Sie Issues. Alternativ können Sie Fragen auch in Microsoft Teams stellen.
